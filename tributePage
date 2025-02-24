@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">Mães</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Homenagem às Mães</h1>
+    </header>
+    <main id="main">
+      <div id="img-div">
+        <img id="image" src="https://images.tcdn.com.br/img/img_prod/1108621/quadro_significado_de_mae_53_1_a872a629cb4a41f25507065aa94021f0.jpeg" />
+        <figcaption id="img-caption">Significado de mãe</figcaption>
+      </div>
+      <div id="tribute-info">
+        <p>Mãe, seu amor é um farol que guia nossos passos,
+Um abraço que acalma e um sorriso que conforta.
+Você é a essência do cuidado e da ternura,
+A força que nos sustenta em qualquer altura.</p>
+
+<p>Seu coração é um oceano de compreensão,
+Onde encontramos refúgio em cada aflição.
+Nos seus braços, o mundo se torna mais leve,
+E na sua voz, encontramos a paz que nos eleva.</p>
+
+<p>Você é a luz que ilumina nossos dias,
+A voz que encoraja e nos ensina sabedoria.
+Seu sacrifício é o alicerce do nosso caminho,
+Seu amor, a inspiração que nos faz mais próximos do divino.</p>
+
+<p>Mãe, sua presença é um presente inestimável,
+Seu carinho, um tesouro que guardamos eternamente.
+Em cada gesto seu, reconhecemos um infinito cuidado,
+E em cada momento juntas, um amor que nunca será igualado.</p>
+
+<p>Neste dia e em todos os dias, celebramos você,
+Por ser a guerreira que nos mostra como viver.
+Mãe, você é a rainha do nosso universo particular,
+E em nossos corações, seu amor sempre irá brilhar.</p>
+
+<p>Às mães, que são a personificação do amor incondicional e da dedicação infinita.</p>
+<a target="_blank" href="https://pt.wikipedia.org/wiki/M%C3%A3e" id="tribute-link">Mais informações</a>
+      </div>
+    </main>
+  </body>
+</html>
